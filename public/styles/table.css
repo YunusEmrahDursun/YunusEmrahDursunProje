@@ -1,0 +1,12 @@
+.table-gray>td{
+    background-color: #e6f7ff!important;
+}
+.table-white>td{
+    background-color: #fafafa!important;
+}
+.ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color:#bae7ff!important;
+}
+.ant-table-thead>tr>.ant-table-cell {
+    background-color:#91d5ff!important;
+}
