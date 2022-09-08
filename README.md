@@ -1,2 +1,2 @@
 # YunusEmrahDursunProje
-![alt resim](https://github.com/DeliDoktoru/YunusEmrahDursunProje/blob/master/gorsel.png)
+![resim](https://github.com/DeliDoktoru/YunusEmrahDursunProje/blob/master/gorsel.png)
